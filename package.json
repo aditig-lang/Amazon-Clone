@@ -1,0 +1,12 @@
+{
+  "name": "amazon-clone",
+  "version": "1.0.0",
+  "description": "Simple static site dev server for local development",
+  "main": "dev-server.js",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "start": "node dev-server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
